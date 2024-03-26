@@ -36,7 +36,7 @@ PATH
       simctl (~> 1.6.3)
       terminal-notifier (>= 2.0.0, < 3.0.0)
       terminal-table (~> 3)
-      tty-screen (>= 0.6.3, < 1.0.0)
+      tty-screen (>= 0.8.2, < 1.0.0)
       tty-spinner (>= 0.8.0, < 1.0.0)
       word_wrap (~> 1.0.0)
       xcodeproj (>= 1.13.0, < 2.0.0)
